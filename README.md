@@ -11,7 +11,7 @@
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-orange.svg)](https://github.com/astral-sh/ruff)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://modelcontextprotocol.io)
 
-[Features](#-features) • [Quick Start](#-quick-start) • [Tools](#-available-tools) • [Contributing](#-contributing) • [Community](#-community)
+[Features](#-features) • [Quick Start](#-quick-start) • [Tools](#-available-tools) • [Contributing](#-contributing) • [Community](#-community) • [Antigravity Setup](docs/ANTIGRAVITY_SETUP.md)
 
 </div>
 
